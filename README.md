@@ -1,1 +1,1 @@
-# execute
+# Blacklist chats, users, devs
