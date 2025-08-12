@@ -1,3 +1,4 @@
+"""
 from pymongo import MongoClient
 
 # URL koneksi MongoDB
@@ -29,3 +30,4 @@ for doc in documents:
     # Tampilkan info user jika ada data string terkait
     if user_info:
         print(user_info)
+"""
